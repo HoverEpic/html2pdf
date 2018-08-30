@@ -1,0 +1,53 @@
+# Copyright (C) 2018 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleHtml2PdfName'
+ModuleHtml2PdfName = Html2Pdf
+# Module description 'ModuleHtml2PdfDesc'
+ModuleHtml2PdfDesc = Html2Pdf description
+
+#
+# Admin page
+#
+Html2PdfSetup = Html2Pdf setup
+Settings = Settings
+Html2PdfSetupPage = Html2Pdf setup page
+HTML2PDF_MYPARAM1 = My param 1
+HTML2PDF_MYPARAM1Tooltip = My param 1 tooltip
+HTML2PDF_MYPARAM2=My param 2
+HTML2PDF_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+Html2PdfAbout = About Html2Pdf
+Html2PdfAboutPage = Html2Pdf about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
