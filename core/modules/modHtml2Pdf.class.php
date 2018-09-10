@@ -246,11 +246,12 @@ class modHtml2Pdf extends DolibarrModules {
         $dompdf = new Dompdf\Dompdf();
         $dompdf->loadHtml($html);
 
+        //TODO CONF
         // (Optional) Setup the paper size and orientation
         $dompdf->setPaper('A4', 'portrait');
 
         // (Optional) Set images dpi lesser
-        $dompdf->set_option( 'dpi' , '200' );
+//        $dompdf->set_option( 'dpi' , '600' );
 
         // Render the HTML as PDF
         $dompdf->render();
